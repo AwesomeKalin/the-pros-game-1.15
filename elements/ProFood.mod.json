@@ -1,0 +1,31 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "profood",
+    "customModelName": "Normal",
+    "name": "Pro Food",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "It's ver good for you!"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 20,
+    "saturation": 1.0,
+    "eatingSpeed": 20,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "ProFoodFoodEaten"
+    }
+  }
+}

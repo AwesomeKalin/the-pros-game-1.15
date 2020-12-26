@@ -1,0 +1,400 @@
+{
+  "id_map": {
+    "GUI": 1
+  },
+  "mod_elements": [
+    {
+      "name": "ObsidianAxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_axe"
+    },
+    {
+      "name": "ObsidianPickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_pickaxe"
+    },
+    {
+      "name": "ObsidianSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_sword"
+    },
+    {
+      "name": "LapisAxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_axe"
+    },
+    {
+      "name": "LapisPickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_pickaxe"
+    },
+    {
+      "name": "LapisSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_sword"
+    },
+    {
+      "name": "RedstoneAxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_axe"
+    },
+    {
+      "name": "RedstonePickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_pickaxe"
+    },
+    {
+      "name": "RedstoneSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_sword"
+    },
+    {
+      "name": "EmeraldAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_axe"
+    },
+    {
+      "name": "EmeraldPickaxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_pickaxe"
+    },
+    {
+      "name": "EmeraldSword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_sword"
+    },
+    {
+      "name": "GlowstoneAxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_axe"
+    },
+    {
+      "name": "GlowstonePickaxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_pickaxe"
+    },
+    {
+      "name": "GlowstoneSword",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_sword"
+    },
+    {
+      "name": "ProChestGUI",
+      "type": "gui",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      },
+      "registry_name": "pro_chest_gui"
+    },
+    {
+      "name": "ObsidianAxeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_axe_recipe"
+    },
+    {
+      "name": "ObsidianPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_pickaxe_recipe"
+    },
+    {
+      "name": "ObsidianSwordRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_sword_recipe"
+    },
+    {
+      "name": "LapisAxeRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_axe_recipe"
+    },
+    {
+      "name": "LapisPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_pickaxe_recipe"
+    },
+    {
+      "name": "LapisSwordRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_sword_recipe"
+    },
+    {
+      "name": "RedstoneAxeRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_axe_recipe"
+    },
+    {
+      "name": "RedstonePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_pickaxe_recipe"
+    },
+    {
+      "name": "RedstoneSwordRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_sword_recipe"
+    },
+    {
+      "name": "EmeraldAxeRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_axe_recipe"
+    },
+    {
+      "name": "EmeraldPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_pickaxe_recipe"
+    },
+    {
+      "name": "EmeraldSwordRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_sword_recipe"
+    },
+    {
+      "name": "GlowstoneAxeRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_axe_recipe"
+    },
+    {
+      "name": "GlowstonePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_pickaxe_recipe"
+    },
+    {
+      "name": "GlowstoneSwordRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_sword_recipe"
+    },
+    {
+      "name": "ProChest",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pro_chest"
+    },
+    {
+      "name": "ProChestRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pro_chest_recipe"
+    },
+    {
+      "name": "ProFoodFoodEaten",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pro_food_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ProFood",
+      "type": "food",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pro_food"
+    },
+    {
+      "name": "ProFoodRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pro_food_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.the_pros_game.lapis_axe": "Lapis Axe",
+      "item.the_pros_game.obsidian_pickaxe": "Obsidian Pickaxe",
+      "item.the_pros_game.glowstone_pickaxe": "Glowstone Axe",
+      "block.the_pros_game.pro_chest": "Pro Chest",
+      "item.the_pros_game.emerald_axe": "Emerald Axe",
+      "item.the_pros_game.emerald_sword": "Emerald Sword",
+      "item.emerald_pickaxe.name": "Emerald Pickaxe",
+      "item.emerald_sword.name": "Emerald Sword",
+      "item.the_pros_game.redstone_sword": "Redstone Sword",
+      "item.the_pros_game.pro_food": "Pro Food",
+      "item.emerald_axe.name": "Emerald Axe",
+      "item.redstone_axe.name": "Redstone Axe",
+      "item.obsidian_pickaxe.name": "Obsidian Pickaxe",
+      "item.the_pros_game.lapis_sword": "Lapis Sword",
+      "item.redstone_pickaxe.name": "Redstone Pickaxe",
+      "item.glowstone_sword.name": "Glowstone Sword",
+      "item.the_pros_game.obsidian_axe": "Obsidian Axe",
+      "item.the_pros_game.glowstone_sword": "Glowstone Sword",
+      "item.lapis_axe.name": "Lapis Axe",
+      "item.the_pros_game.obsidian_sword": "Obsidian Sword",
+      "item.lapis_pickaxe.name": "Lapis Pickaxe",
+      "item.the_pros_game.redstone_axe": "Redstone Axe",
+      "item.obsidian_sword.name": "Obsidian Sword",
+      "item.the_pros_game.redstone_pickaxe": "Redstone Pickaxe",
+      "item.the_pros_game.emerald_pickaxe": "Emerald Pickaxe",
+      "item.glowstone_axe.name": "Glowstone Axe",
+      "item.the_pros_game.glowstone_axe": "Glowstone Axe",
+      "item.obsidian_axe.name": "Obsidian Axe",
+      "tile.pro_chest.name": "Pro Chest",
+      "item.lapis_sword.name": "Lapis Sword",
+      "item.the_pros_game.lapis_pickaxe": "Lapis Pickaxe",
+      "item.pro_food.name": "Pro Food",
+      "item.glowstone_pickaxe.name": "Glowstone Axe",
+      "item.redstone_sword.name": "Redstone Sword"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "the_pros_game",
+    "modName": "The Pro\u0027s Game",
+    "version": "1.1",
+    "description": "The mod for pro\u0027s",
+    "author": "AwesomeKalin 55, AwesomeFootball 123",
+    "websiteURL": "https://github.com/AwesomeKalin/the-pros-game",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "io.itch.awesomekalin.theprosgame",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

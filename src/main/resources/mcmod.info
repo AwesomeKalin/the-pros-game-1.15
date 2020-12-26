@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "the_pros_game",
+    "name": "The Pro's Game",
+    "description": "The mod for pro's",
+    "version": "1.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/AwesomeKalin/the-pros-game",
+    "updateUrl": "",
+    "authorList": [
+      "AwesomeKalin 55, AwesomeFootball 123"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

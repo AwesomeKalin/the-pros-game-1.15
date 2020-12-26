@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="the_pros_game"
+version="1.1"
+displayName="The Pro's Game"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://github.com/AwesomeKalin/the-pros-game"
+authors="AwesomeKalin 55, AwesomeFootball 123"
+description='''
+The mod for pro's
+'''
+
+[[dependencies.the_pros_game]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
